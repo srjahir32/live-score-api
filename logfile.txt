@@ -1,0 +1,228 @@
+07-05-2018 11:17:40: 7
+,07-05-2018 11:17:40: Done
+,07-05-2018 11:17:40: !!!!
+,07-05-2018 11:18:40: Current DateTime: 07-05-2018 11:18:40
+,07-05-2018 11:18:41: 0
+,07-05-2018 11:18:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:18:41: Remove Array of object if id is '0': []
+,07-05-2018 11:18:41: Inside GetCommentariesData
+,07-05-2018 11:19:40: Current DateTime: 07-05-2018 11:19:40
+,07-05-2018 11:19:41: 0
+,07-05-2018 11:19:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:19:41: Remove Array of object if id is '0': []
+,07-05-2018 11:19:41: Inside GetCommentariesData
+,07-05-2018 11:20:40: Current DateTime: 07-05-2018 11:20:40
+,07-05-2018 11:20:41: 0
+,07-05-2018 11:20:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:20:41: Remove Array of object if id is '0': []
+,07-05-2018 11:20:41: Inside GetCommentariesData
+,07-05-2018 11:21:40: Current DateTime: 07-05-2018 11:21:40
+,07-05-2018 11:21:41: 0
+,07-05-2018 11:21:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:21:41: Remove Array of object if id is '0': []
+,07-05-2018 11:21:41: Inside GetCommentariesData
+,07-05-2018 11:22:40: Current DateTime: 07-05-2018 11:22:40
+,07-05-2018 11:22:41: 0
+,07-05-2018 11:22:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:22:41: Remove Array of object if id is '0': []
+,07-05-2018 11:22:41: Inside GetCommentariesData
+,07-05-2018 11:23:40: Current DateTime: 07-05-2018 11:23:40
+,07-05-2018 11:23:41: 0
+,07-05-2018 11:23:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:23:41: Remove Array of object if id is '0': []
+,07-05-2018 11:23:41: Inside GetCommentariesData
+,07-05-2018 11:24:40: Current DateTime: 07-05-2018 11:24:40
+,07-05-2018 11:24:41: 0
+,07-05-2018 11:24:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:24:41: Remove Array of object if id is '0': []
+,07-05-2018 11:24:41: Inside GetCommentariesData
+,07-05-2018 11:25:40: Current DateTime: 07-05-2018 11:25:40
+,07-05-2018 11:25:41: 0
+,07-05-2018 11:25:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:25:41: Remove Array of object if id is '0': []
+,07-05-2018 11:25:41: Inside GetCommentariesData
+,07-05-2018 11:26:40: Current DateTime: 07-05-2018 11:26:40
+,07-05-2018 11:26:41: 0
+,07-05-2018 11:26:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:26:41: Remove Array of object if id is '0': []
+,07-05-2018 11:26:41: Inside GetCommentariesData
+,07-05-2018 11:27:40: Current DateTime: 07-05-2018 11:27:40
+,07-05-2018 11:27:41: 0
+,07-05-2018 11:27:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:27:41: Remove Array of object if id is '0': []
+,07-05-2018 11:27:41: Inside GetCommentariesData
+,07-05-2018 11:28:40: Current DateTime: 07-05-2018 11:28:40
+,07-05-2018 11:28:41: 0
+,07-05-2018 11:28:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:28:41: Remove Array of object if id is '0': []
+,07-05-2018 11:28:41: Inside GetCommentariesData
+,07-05-2018 11:29:40: Current DateTime: 07-05-2018 11:29:40
+,07-05-2018 11:29:41: 0
+,07-05-2018 11:29:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:29:41: Remove Array of object if id is '0': []
+,07-05-2018 11:29:41: Inside GetCommentariesData
+,07-05-2018 11:30:40: Current DateTime: 07-05-2018 11:30:40
+,07-05-2018 11:30:41: 0
+,07-05-2018 11:30:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:30:41: Remove Array of object if id is '0': []
+,07-05-2018 11:30:41: Inside GetCommentariesData
+,07-05-2018 11:31:40: Current DateTime: 07-05-2018 11:31:40
+,07-05-2018 11:31:41: 0
+,07-05-2018 11:31:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:31:41: Remove Array of object if id is '0': []
+,07-05-2018 11:31:41: Inside GetCommentariesData
+,07-05-2018 11:32:40: Current DateTime: 07-05-2018 11:32:40
+,07-05-2018 11:32:41: 0
+,07-05-2018 11:32:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:32:41: Remove Array of object if id is '0': []
+,07-05-2018 11:32:41: Inside GetCommentariesData
+,07-05-2018 11:33:40: Current DateTime: 07-05-2018 11:33:40
+,07-05-2018 11:33:41: 0
+,07-05-2018 11:33:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:33:41: Remove Array of object if id is '0': []
+,07-05-2018 11:33:41: Inside GetCommentariesData
+,07-05-2018 11:34:40: Current DateTime: 07-05-2018 11:34:40
+,07-05-2018 11:34:41: 0
+,07-05-2018 11:34:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:34:41: Remove Array of object if id is '0': []
+,07-05-2018 11:34:41: Inside GetCommentariesData
+,07-05-2018 11:35:40: Current DateTime: 07-05-2018 11:35:40
+,07-05-2018 11:35:41: 0
+,07-05-2018 11:35:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:35:41: Remove Array of object if id is '0': []
+,07-05-2018 11:35:41: Inside GetCommentariesData
+,07-05-2018 11:36:40: Current DateTime: 07-05-2018 11:36:40
+,07-05-2018 11:36:41: 0
+,07-05-2018 11:36:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:36:41: Remove Array of object if id is '0': []
+,07-05-2018 11:36:41: Inside GetCommentariesData
+,07-05-2018 11:37:40: Current DateTime: 07-05-2018 11:37:40
+,07-05-2018 11:37:41: 0
+,07-05-2018 11:37:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:37:41: Remove Array of object if id is '0': []
+,07-05-2018 11:37:41: Inside GetCommentariesData
+,07-05-2018 11:38:40: Current DateTime: 07-05-2018 11:38:40
+,07-05-2018 11:38:41: 0
+,07-05-2018 11:38:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:38:41: Remove Array of object if id is '0': []
+,07-05-2018 11:38:41: Inside GetCommentariesData
+,07-05-2018 11:39:40: Current DateTime: 07-05-2018 11:39:40
+,07-05-2018 11:39:41: 0
+,07-05-2018 11:39:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:39:41: Remove Array of object if id is '0': []
+,07-05-2018 11:39:41: Inside GetCommentariesData
+,07-05-2018 11:40:40: Current DateTime: 07-05-2018 11:40:40
+,07-05-2018 11:40:41: 0
+,07-05-2018 11:40:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:40:41: Remove Array of object if id is '0': []
+,07-05-2018 11:40:41: Inside GetCommentariesData
+,07-05-2018 11:41:40: Current DateTime: 07-05-2018 11:41:40
+,07-05-2018 11:41:41: 0
+,07-05-2018 11:41:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:41:41: Remove Array of object if id is '0': []
+,07-05-2018 11:41:41: Inside GetCommentariesData
+,07-05-2018 11:42:40: Current DateTime: 07-05-2018 11:42:40
+,07-05-2018 11:42:41: 0
+,07-05-2018 11:42:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:42:41: Remove Array of object if id is '0': []
+,07-05-2018 11:42:41: Inside GetCommentariesData
+,07-05-2018 11:43:40: Current DateTime: 07-05-2018 11:43:40
+,07-05-2018 11:43:41: 0
+,07-05-2018 11:43:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:43:41: Remove Array of object if id is '0': []
+,07-05-2018 11:43:41: Inside GetCommentariesData
+,07-05-2018 11:44:40: Current DateTime: 07-05-2018 11:44:40
+,07-05-2018 11:44:41: 0
+,07-05-2018 11:44:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:44:41: Remove Array of object if id is '0': []
+,07-05-2018 11:44:41: Inside GetCommentariesData
+,07-05-2018 11:45:40: Current DateTime: 07-05-2018 11:45:40
+,07-05-2018 11:45:41: 0
+,07-05-2018 11:45:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:45:41: Remove Array of object if id is '0': []
+,07-05-2018 11:45:41: Inside GetCommentariesData
+,07-05-2018 11:46:40: Current DateTime: 07-05-2018 11:46:40
+,07-05-2018 11:46:41: 0
+,07-05-2018 11:46:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:46:41: Remove Array of object if id is '0': []
+,07-05-2018 11:46:41: Inside GetCommentariesData
+,07-05-2018 11:47:40: Current DateTime: 07-05-2018 11:47:40
+,07-05-2018 11:47:41: 0
+,07-05-2018 11:47:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:47:41: Remove Array of object if id is '0': []
+,07-05-2018 11:47:41: Inside GetCommentariesData
+,07-05-2018 11:48:40: Current DateTime: 07-05-2018 11:48:40
+,07-05-2018 11:48:41: 0
+,07-05-2018 11:48:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:48:41: Remove Array of object if id is '0': []
+,07-05-2018 11:48:41: Inside GetCommentariesData
+,07-05-2018 11:49:40: Current DateTime: 07-05-2018 11:49:40
+,07-05-2018 11:49:41: 0
+,07-05-2018 11:49:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:49:41: Remove Array of object if id is '0': []
+,07-05-2018 11:49:41: Inside GetCommentariesData
+,07-05-2018 11:50:40: Current DateTime: 07-05-2018 11:50:40
+,07-05-2018 11:50:41: 0
+,07-05-2018 11:50:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:50:41: Remove Array of object if id is '0': []
+,07-05-2018 11:50:41: Inside GetCommentariesData
+,07-05-2018 11:51:40: Current DateTime: 07-05-2018 11:51:40
+,07-05-2018 11:51:41: 0
+,07-05-2018 11:51:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:51:41: Remove Array of object if id is '0': []
+,07-05-2018 11:51:41: Inside GetCommentariesData
+,07-05-2018 11:52:40: Current DateTime: 07-05-2018 11:52:40
+,07-05-2018 11:52:41: 0
+,07-05-2018 11:52:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:52:41: Remove Array of object if id is '0': []
+,07-05-2018 11:52:41: Inside GetCommentariesData
+,07-05-2018 11:53:40: Current DateTime: 07-05-2018 11:53:40
+,07-05-2018 11:53:41: 0
+,07-05-2018 11:53:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:53:41: Remove Array of object if id is '0': []
+,07-05-2018 11:53:41: Inside GetCommentariesData
+,07-05-2018 11:54:40: Current DateTime: 07-05-2018 11:54:40
+,07-05-2018 11:54:41: 0
+,07-05-2018 11:54:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:54:41: Remove Array of object if id is '0': []
+,07-05-2018 11:54:41: Inside GetCommentariesData
+,07-05-2018 11:55:40: Current DateTime: 07-05-2018 11:55:40
+,07-05-2018 11:55:41: 0
+,07-05-2018 11:55:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:55:41: Remove Array of object if id is '0': []
+,07-05-2018 11:55:41: Inside GetCommentariesData
+,07-05-2018 11:56:40: Current DateTime: 07-05-2018 11:56:40
+,07-05-2018 11:56:41: 0
+,07-05-2018 11:56:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:56:41: Remove Array of object if id is '0': []
+,07-05-2018 11:56:41: Inside GetCommentariesData
+,07-05-2018 11:57:41: Current DateTime: 07-05-2018 11:57:41
+,07-05-2018 11:57:41: 0
+,07-05-2018 11:57:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:57:41: Remove Array of object if id is '0': []
+,07-05-2018 11:57:41: Inside GetCommentariesData
+,07-05-2018 11:58:41: Current DateTime: 07-05-2018 11:58:41
+,07-05-2018 11:58:41: 0
+,07-05-2018 11:58:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:58:41: Remove Array of object if id is '0': []
+,07-05-2018 11:58:41: Inside GetCommentariesData
+,07-05-2018 11:59:41: Current DateTime: 07-05-2018 11:59:41
+,07-05-2018 11:59:41: 0
+,07-05-2018 11:59:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 11:59:41: Remove Array of object if id is '0': []
+,07-05-2018 11:59:41: Inside GetCommentariesData
+,07-05-2018 12:00:41: Current DateTime: 07-05-2018 12:00:41
+,07-05-2018 12:00:41: 0
+,07-05-2018 12:00:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 12:00:41: Remove Array of object if id is '0': []
+,07-05-2018 12:00:41: Inside GetCommentariesData
+,07-05-2018 12:01:41: Current DateTime: 07-05-2018 12:01:41
+,07-05-2018 12:01:41: 0
+,07-05-2018 12:01:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 12:01:41: Remove Array of object if id is '0': []
+,07-05-2018 12:01:41: Inside GetCommentariesData
+,07-05-2018 12:02:41: Current DateTime: 07-05-2018 12:02:41
+,07-05-2018 12:02:41: 0
+,07-05-2018 12:02:41: match time and current time diff. is greater than 3 hours: []
+,07-05-2018 12:02:41: Remove Array of object if id is '0': []
+,07-05-2018 12:02:41: Inside GetCommentariesData

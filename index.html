@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+</head>
+
+<body>
+    <h1>Hello World!</h1>
+    <div id="future"></div>
+    <!-- <form id="form" id="chat_form">
+        <input id="chat_input" type="text">
+        <input type="submit" value="Send">
+    </form> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.0/socket.io.js"></script>
+    <script>
+        var socket = io.connect('Ip Address');
+        //var socket = io.connect('http://localhost:8080');
+        socket.on("response", function (data) {
+            console.log(data);
+            socket.emit('event', 'Hello World from client');
+        });
+    </script>
+</body>
+
+</html>
